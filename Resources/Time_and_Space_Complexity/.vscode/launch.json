@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\Urvashi Anand\\Pepcoding_DSA_Sheet_CPP\\Time_and_Space_Complexity",
+      "environment": [],
+      "program": "c:\\Users\\Urvashi Anand\\Pepcoding_DSA_Sheet_CPP\\Time_and_Space_Complexity\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
