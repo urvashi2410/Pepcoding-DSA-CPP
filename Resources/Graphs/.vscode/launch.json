@@ -7,13 +7,13 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "cwd": "c:\\Users\\Urvashi Anand\\Pepcoding_DSA_Sheet_CPP\\Resources\\Graphs",
+      "cwd": "c:/Users/Urvashi Anand/Pepcoding-DSA-CPP/Resources/Graphs",
       "environment": [],
-      "program": "c:\\Users\\Urvashi Anand\\Pepcoding_DSA_Sheet_CPP\\Resources\\Graphs\\build\\Debug\\outDebug",
+      "program": "c:/Users/Urvashi Anand/Pepcoding-DSA-CPP/Resources/Graphs/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
-      "externalConsole": false,
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "console": "integratedTerminal",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
